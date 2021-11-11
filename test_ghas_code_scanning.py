@@ -2,7 +2,7 @@ import os
 import json
 import requests
 
-api_token = "Password_testing_github_code_scanning"
+api_token = "12930uqw98jhaskcbasgjdfvbdwksdahq"
 secret = "secret"
 passw = "C0mpl1c4t3d57r1ng"
 
