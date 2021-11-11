@@ -3,7 +3,7 @@ import json
 import requests
 
 api_token = "12930uqw98jhaskcbasgjdfvbdwksdahq"
-secret = "secret"
+secret = "lasdjas712yeihdasd"
 passw = "C0mpl1c4t3d57r1ng"
 
 print(api_token)
