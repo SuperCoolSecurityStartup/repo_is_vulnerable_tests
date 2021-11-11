@@ -4,7 +4,7 @@ import requests
 
 api_token = "Password_testing_github_code_scanning"
 secret = "secret"
-password = "password"
+passw = "C0mpl1c4t3d57r1ng"
 
 print(api_token)
 
