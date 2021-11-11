@@ -1,3 +1,3 @@
 # test_repos
-Test repos for Github features
+Test repos for Github security features
 
