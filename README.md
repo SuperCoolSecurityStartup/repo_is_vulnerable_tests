@@ -1,4 +1,3 @@
 # test_repos
-Test repos for MVP
-Testing again
+Test repos for Github features
 
